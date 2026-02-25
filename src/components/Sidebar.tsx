@@ -52,7 +52,7 @@ export default function Sidebar() {
       </nav>
 
       <div className="p-6 pt-4 border-t border-carapace-border space-y-2">
-        <p className="font-mono text-xs text-carapace-text-dim">v0.1.0</p>
+        <p className="font-mono text-xs text-carapace-text-dim">v0.1.1</p>
         <div className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md bg-[rgba(34,197,94,0.1)] border border-[rgba(34,197,94,0.2)]">
           <div className="w-1.5 h-1.5 rounded-full bg-carapace-green" />
           <span className="font-mono text-xs text-carapace-green">
